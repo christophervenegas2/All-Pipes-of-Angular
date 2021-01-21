@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pipes"
+    }
+  },
+  "defaultProject": "pipes",
+  "cli": {
+    "analytics": "c1a395c3-3a6e-4c23-b434-2ef0aa2deea4"
+  }
 }
